@@ -2,8 +2,10 @@
 .idea
 .logs
 .pytest_cache
-frontend
+backend
+worker
+tools
+node_modules
+npm-debug
 tests
 venv
-*.pyc
-*.pyo
